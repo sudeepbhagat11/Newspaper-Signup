@@ -42,7 +42,7 @@ app.post("/",function(request,res){
         url : 'https://us21.api.mailchimp.com/3.0/lists/f4964ca4cc',
         method : "POST",
         headers: {
-            Authorization : 'auth a3c0e4ad9f88b8c030cdfd6d70267846-us21'
+            Authorization : 'auth 8530cf1390bc8ee6e6992276b55ec7ac-us21-us21'
         },
         body : jsonData
 
